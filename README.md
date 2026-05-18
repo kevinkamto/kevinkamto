@@ -11,10 +11,10 @@ Building intelligent autonomous systems, scalable web apps, and decentralized so
 LangChain · AutoGen · Reinforcement Learning · NLP · TensorFlow · PyTorch
 
 **⚙️ Backend**
-Node.js · Python (Flask / Django) · REST APIs · PostgreSQL · MongoDB · Redis · Docker · AWS/GCP
+Node.js · Python (FastAPI / Django / Flask) · REST APIs · PostgreSQL · MongoDB · Redis · Docker · AWS/GCP
 
 **🖥️ Frontend**
-React · Vue.js · HTML / CSS / JavaScript
+React · Next.js · Vue.js · HTML / CSS / JavaScript
 
 **🔗 Blockchain**
 Smart Contracts · Decentralized Application Development · Web3 Integration
