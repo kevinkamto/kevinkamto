@@ -1,49 +1,25 @@
 # Kevin Kamto
+**Agentic AI Engineer · Full Stack Developer · Blockchain**
 
-I am an Agentic AI Engineer and Full Stack Developer focused on building intelligent, autonomous systems and scalable web applications. My expertise lies in leveraging AI agents for problem-solving, integrated with comprehensive software development to deliver impactful solutions.
-
-## Currently Working On
-- Developing autonomous AI agents for decision-making and automation
-- Full-stack web applications using modern frameworks such as React, Node.js, and Python
-- Integrating AI/ML models into production systems
-
-## Currently Learning
-- Advanced reinforcement learning techniques for agentic AI
-- Cloud-native architectures and DevOps practices
-- Emerging AI frameworks and tools
-
-## Looking to Collaborate On
-- Open-source AI projects focused on autonomous agents
-- Innovative full-stack applications with AI integration
-- Research in agent-based systems and human-AI interaction
-
-## Looking for Help With
-- Scaling AI agent deployments in production environments
-- Optimizing full-stack performance for AI-heavy applications
-- Best practices for ethical AI development
-
-## Ask Me About
-- Agentic AI architectures and implementations
-- Full-stack development with AI/ML components
-- Best practices for integrating AI into web applications
-- Career advice in AI engineering and software development
+Building intelligent autonomous systems, scalable web apps, and decentralized solutions.
 
 ---
 
-## Skills & Technologies
+## Core Skills
 
-**AI & Machine Learning:**
-- Python, TensorFlow, PyTorch
-- Reinforcement Learning, NLP, Computer Vision
-- Agent Frameworks (e.g., LangChain, AutoGen)
+**🤖 Agentic AI**
+LangChain · AutoGen · Reinforcement Learning · NLP · TensorFlow · PyTorch
 
-**Full Stack Development:**
-- Frontend: React, Vue.js, HTML/CSS/JavaScript
-- Backend: Node.js, Python (Flask/Django), REST APIs
-- Databases: MongoDB, PostgreSQL, Redis
-- DevOps: Docker, Kubernetes, AWS/GCP
+**⚙️ Backend**
+Node.js · Python (Flask / Django) · REST APIs · PostgreSQL · MongoDB · Redis · Docker · AWS/GCP
 
-**Tools & Others:**
-- Git, CI/CD, Agile methodologies
-- Data Science: Pandas, NumPy, Jupyter
-- Version Control, Testing, Documentation
+**🖥️ Frontend**
+React · Vue.js · HTML / CSS / JavaScript
+
+**🔗 Blockchain**
+Smart Contracts · Decentralized Application Development · Web3 Integration
+
+---
+
+## Let's Connect
+Open to collaborating on autonomous AI projects, full-stack + AI integrations, and blockchain-based systems.
