@@ -14,7 +14,7 @@ LangChain · AutoGen · Reinforcement Learning · NLP · TensorFlow · PyTorch
 Node.js · Python (FastAPI / Django / Flask) · REST APIs · PostgreSQL · MongoDB · Redis · Docker · AWS/GCP
 
 **🖥️ Frontend**
-React · Next.js · HTML / CSS / JavaScript
+React · Next.js · TypeScript · HTML / CSS / JavaScript
 
 **🔗 Blockchain**
 Smart Contracts · Decentralized Application Development · Web3 Integration
